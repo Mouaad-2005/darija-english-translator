@@ -1,3 +1,7 @@
+
+Link for deo video : https://drive.google.com/drive/folders/1A1XaZhPHX4EB8fl01jaCjezsBLmVPu9
+link for a canva presentation 
+
 #  Darija-English Translator (Quarkus)
 
 Ce projet est une application Java moderne construite avec **Quarkus**. Elle permet de traduire du texte entre l'arabe dialectal marocain (**Darija**) et l'**Anglais**.
@@ -25,3 +29,10 @@ Pour lancer l'application et voir les modifications en temps réel :
 ```bash
 cd code-with-quarkus
 ./mvnw quarkus:dev
+
+
+
+
+
+
+
