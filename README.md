@@ -1,6 +1,6 @@
 
 Link for deo video : https://drive.google.com/drive/folders/1A1XaZhPHX4EB8fl01jaCjezsBLmVPu9
-link for a canva presentation 
+link for a canva presentation : https://www.canva.com/design/DAG62TL5fSw/KVzC8zCixkes1ajGNMmjIw/view?utm_content=DAG62TL5fSw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd813294fef
 
 #  Darija-English Translator (Quarkus)
 
