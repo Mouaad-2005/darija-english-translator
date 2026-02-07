@@ -13,6 +13,9 @@ Ce projet est une application Java moderne haute performance conçue pour la tra
 📽️ Ressources & Démonstrations
 -Link for demo video : https://drive.google.com/file/d/1QpoAjOloEyo-rLi0AkvmGwaCAmpZcnU8/view?usp=sharing
 -link for a canva presentation : https://www.canva.com/design/DAG62TL5fSw/aqWRvyYbcVAldc6-UVqyHQ/edit
+
+
+
 ✨ Fonctionnalités clés
 Traduction bidirectionnelle : Conversion fluide entre le Darija et l'Anglais.
 
