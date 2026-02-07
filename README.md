@@ -1,6 +1,6 @@
 
 
-🇲🇦 Darija-English Translator (Quarkus)
+🇲🇦 Darija-English Translator 
 
 
 
@@ -11,9 +11,8 @@
 Ce projet est une application Java moderne haute performance conçue pour la traduction bidirectionnelle entre l'arabe dialectal marocain (Darija) et l'Anglais. Propulsé par le framework Quarkus, ce traducteur démontre l'utilisation d'extensions personnalisées pour isoler les logiques métier complexes.
 
 📽️ Ressources & Démonstrations
--Link for demo video : https://drive.google.com/drive/folders/1A1XaZhPHX4EB8fl01jaCjezsBLmVPu9
--link for a canva presentation : https://www.canva.com/design/DAG62TL5fSw/KVzC8zCixkes1ajGNMmjIw/view?utm_content=DAG62TL5fSw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd813294fef
-
+-Link for demo video : https://drive.google.com/file/d/1QpoAjOloEyo-rLi0AkvmGwaCAmpZcnU8/view?usp=sharing
+-link for a canva presentation : https://www.canva.com/design/DAG62TL5fSw/aqWRvyYbcVAldc6-UVqyHQ/edit
 ✨ Fonctionnalités clés
 Traduction bidirectionnelle : Conversion fluide entre le Darija et l'Anglais.
 
